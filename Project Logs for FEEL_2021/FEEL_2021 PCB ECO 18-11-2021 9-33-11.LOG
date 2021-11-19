@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=3 NewDesignator=M1
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Member To Class: ClassName=Power Management Member=Component U1
+Added Member To Class: ClassName=Sensors Member=Component U4
+Added Room: Name=Actuators
+Added Room: Name=MCU
+Added Room: Name=Power Management
+Added Room: Name=Sensors
